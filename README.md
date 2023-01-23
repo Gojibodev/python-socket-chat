@@ -2,7 +2,7 @@
 # Chat Application
 
 This is a simple chat application that allows multiple clients to connect to a server and chat with each other.
-It uses sockets and threading technology to 
+It uses sockets and threading technology to allow clients to interact with each other
 
 ## Getting Started
 
