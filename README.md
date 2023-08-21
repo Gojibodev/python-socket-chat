@@ -47,7 +47,7 @@ To run the client, navigate to the root of the project in the command prompt and
 
 ## Authors
 
--   **Gojibo** - _Initial work_ - [Gojimandev/](https://github.com/Gojimandev/)
+-   **Gojibo** - _Initial work_ - [Gojibodev/](https://github.com/Gojibodev/)
 
 ## License
 
